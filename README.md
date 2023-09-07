@@ -17,7 +17,6 @@ This is an backend application in which me my team of 3 members have created res
 - Core JAVA
 - MySql
 - Spring Boot
-- Spring Security
 - Spring Data JPA
 - Maven
 - Hibernate
